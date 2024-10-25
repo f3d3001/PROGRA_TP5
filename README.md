@@ -23,4 +23,4 @@ Equipamiento
 <No hay equipamiento de ropa o armadura, solo el pickup>
 
 Mapa
-La idea del mapa es que sea amplio pero con muchos corredores y pasillos que, junto con el ambiente oscuro, generan la opción perfecta para realizar el sigilo entre coberturas.
+<La idea del mapa es que sea amplio pero con muchos corredores y pasillos que, junto con el ambiente oscuro, generan la opción perfecta para realizar el sigilo entre coberturas>
